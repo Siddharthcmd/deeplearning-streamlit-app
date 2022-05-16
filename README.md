@@ -15,6 +15,4 @@ Steps:
 
 5-> Paste your own url and check it.
 
-6-> To check the accuracy and peroformace of the code you can visit my tensorboard link:
-
-    (https://tensorboard.dev/experiment/9qvRbcM5TJCJd81Qt5eoFA/#scalars)
+6-> To check the accuracy and peroformace of the code you can visit my tensorboard link: https://tensorboard.dev/experiment/9qvRbcM5TJCJd81Qt5eoFA/#scalars
